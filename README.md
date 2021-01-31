@@ -37,6 +37,7 @@
 - [GUI](#gui)
 - [HTTP and the Web](#http-and-the-web)
 - [Image Processing](#image-processing)
+- [Internationalization](#internationalization)
 - [Language Bindings](#language-bindings)
 - [Logging](#logging)
 - [Mathematics](#mathematics)
@@ -296,6 +297,12 @@
 | [color-util](https://github.com/yuki-koyama/color-util) | [![GitHub stars](https://img.shields.io/github/stars/yuki-koyama/color-util?style=social)](https://github.com/yuki-koyama/color-util/stargazers/) | Colors, Color space converters for RGB, HSL, XYZ, Lab, etc. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [color](https://github.com/dmilos/color) | [![GitHub stars](https://img.shields.io/github/stars/dmilos/color?style=social)](https://github.com/dmilos/color/stargazers/) | Color manipulation/conversion for different types and formats. | [![License: MIT](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 | [nanopm](https://github.com/unclearness/nanopm) | [![GitHub stars](https://img.shields.io/github/stars/unclearness/nanopm?style=social)](https://github.com/unclearness/nanopm/stargazers/) | NanoPM, single header only PatchMatch. | |
+
+## Internationalization
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [MofileReader](https://github.com/AnotherFoxGuy/MofileReader) | [![GitHub stars](https://img.shields.io/github/stars/AnotherFoxGuy/MofileReader?style=social)](https://github.com/AnotherFoxGuy/MofileReader/stargazers/) | Dependency-free  library for reading .mo files (gettext) | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Language Bindings
 
